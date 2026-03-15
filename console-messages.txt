@@ -1,0 +1,32 @@
+Total messages: 18 (Errors: 4, Warnings: 0)
+
+[ERROR] No users data found. Unable to render the table. @ https://brand.equinix.com/etc.clientlibs/brand/clientlibs/clientlib-site.min.71f1fe8bd48c000539164f499b0d90b7.js:162
+[INFO] %cBRAND PORTAL color: #333; font-size: 60px; font-weight: bold; @ https://brand.equinix.com/etc.clientlibs/brand/clientlibs/clientlib-site.min.71f1fe8bd48c000539164f499b0d90b7.js:289
+[LOG] Color Grid Component @ https://brand.equinix.com/etc.clientlibs/brand/clientlibs/clientlib-site.min.71f1fe8bd48c000539164f499b0d90b7.js:330
+[LOG] Error in fetch URL : https://cdn.cookielaw.org/scripttemplates/202508.2.0/assets/otCommonStyles.css Exception :TypeError: Failed to fetch @ https://cdn.cookielaw.org/scripttemplates/202508.2.0/otBannerSdk.js:6
+[LOG] Error in fetch URL : https://cdn.cookielaw.org/scripttemplates/202508.2.0/assets/otFlat.json Exception :TypeError: Failed to fetch @ https://cdn.cookielaw.org/scripttemplates/202508.2.0/otBannerSdk.js:6
+[LOG] Error in fetch URL : https://cdn.cookielaw.org/scripttemplates/202508.2.0/assets/v2/otPcCenter.json Exception :TypeError: Failed to fetch @ https://cdn.cookielaw.org/scripttemplates/202508.2.0/otBannerSdk.js:6
+[LOG] Redirect to homepage? @ https://brand.equinix.com/registration-and-login.html?resource=%2Fcontent%2Fbrand%2Fus%2Fen%2Fresources.html&$$login$$=%24%24login%24%24&j_reason=unknown&j_reason_code=unknown:95
+[LOG] formCookieStatus Cookie exists: false @ https://brand.equinix.com/etc.clientlibs/eqxcorp/clientlibs/clientlib-site.min.41a9526fcd6930d986e5875455a962e9.js:93
+[INFO] 
+███████╗░██████╗░██╗░░░██╗██╗███╗░░██╗██╗██╗░░██╗
+██╔════╝██╔═══██╗██║░░░██║██║████╗░██║██║╚██╗██╔╝
+█████╗░░██║██╗██║██║░░░██║██║██╔██╗██║██║░╚███╔╝░
+██╔══╝░░╚██████╔╝██║░░░██║██║██║╚████║██║░██╔██╗░
+███████╗░╚═██╔═╝░╚██████╔╝██║██║░╚███║██║██╔╝╚██╗
+╚══════╝░░░╚═╝░░░░╚═════╝░╚═╝╚═╝░░╚══╝╚═╝╚═╝░░╚═╝ @ https://brand.equinix.com/etc.clientlibs/eqxcorp/clientlibs/clientlib-site.min.41a9526fcd6930d986e5875455a962e9.js:56
+[ERROR] No users data found. Unable to render the table. @ https://brand.equinix.com/etc.clientlibs/brand/clientlibs/clientlib-site.min.71f1fe8bd48c000539164f499b0d90b7.js:162
+[INFO] %cBRAND PORTAL color: #333; font-size: 60px; font-weight: bold; @ https://brand.equinix.com/etc.clientlibs/brand/clientlibs/clientlib-site.min.71f1fe8bd48c000539164f499b0d90b7.js:289
+[VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://brand.equinix.com/registration-and-login.html?resource=%2Fcontent%2Fbrand%2Fus%2Fen%2Fresources.html&$$login$$=%24%24login%24%24&j_reason=unknown&j_reason_code=unknown:0
+[VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://brand.equinix.com/registration-and-login.html?resource=%2Fcontent%2Fbrand%2Fus%2Fen%2Fresources.html&$$login$$=%24%24login%24%24&j_reason=unknown&j_reason_code=unknown:0
+[VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://brand.equinix.com/registration-and-login.html?resource=%2Fcontent%2Fbrand%2Fus%2Fen%2Fresources.html&$$login$$=%24%24login%24%24&j_reason=unknown&j_reason_code=unknown:0
+[LOG] Color Grid Component @ https://brand.equinix.com/etc.clientlibs/brand/clientlibs/clientlib-site.min.71f1fe8bd48c000539164f499b0d90b7.js:330
+[LOG] select2DataAttribute: JSHandle@node @ https://brand.equinix.com/etc.clientlibs/eqxcorp/clientlibs/clientlib-site.min.41a9526fcd6930d986e5875455a962e9.js:93
+Uncaught TypeError: Cannot read properties of undefined (reading 'terminus')
+    at Oe (https://cdn.getsmartcontent.com/QQHZZB61.js:0:45724)
+    at go (https://cdn.getsmartcontent.com/QQHZZB61.js:0:48020)
+    at <anonymous> (https://s.getsmartcontent.com/serving?tm=1771240379&rv=197780cb-1a18-4831-98ca-5f2933489fd1&i=n5og471fintlvj49ng8bushgflyxd632&loc=https%3A%2F%2Fbrand.equinix.com%2Fregistration-and-login.html%3Fresource%3D%252Fcontent%252Fbrand%252Fus%252Fen%252Fresources.html%26%24%24login%24%24%3D%2524%2524login%2524%2524%26j_reason%3Dunknown%26j_reason_code%3Dunknown&w=QQHZZB61&c=&v=1771240375.1771240375.1771240375.1&s=n5og471fintlvj49ng8bushgflyxd632.1771240375&d=780%2C493&ab=&r=&m.eg=&lvc=&lvcr=&dl=%7B%7D:0:25)
+    at <anonymous> (https://s.getsmartcontent.com/serving?tm=1771240379&rv=197780cb-1a18-4831-98ca-5f2933489fd1&i=n5og471fintlvj49ng8bushgflyxd632&loc=https%3A%2F%2Fbrand.equinix.com%2Fregistration-and-login.html%3Fresource%3D%252Fcontent%252Fbrand%252Fus%252Fen%252Fresources.html%26%24%24login%24%24%3D%2524%2524login%2524%2524%26j_reason%3Dunknown%26j_reason_code%3Dunknown&w=QQHZZB61&c=&v=1771240375.1771240375.1771240375.1&s=n5og471fintlvj49ng8bushgflyxd632.1771240375&d=780%2C493&ab=&r=&m.eg=&lvc=&lvcr=&dl=%7B%7D:0:86)
+TypeError: Cannot read properties of null (reading 'closest')
+    at l (https://brand.equinix.com/etc.clientlibs/eqxcorp/clientlibs/clientlib-site.min.41a9526fcd6930d986e5875455a962e9.js:94:24533)
+    at https://brand.equinix.com/etc.clientlibs/eqxcorp/clientlibs/clientlib-site.min.41a9526fcd6930d986e5875455a962e9.js:94:24656
