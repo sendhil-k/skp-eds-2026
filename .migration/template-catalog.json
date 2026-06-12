@@ -1,0 +1,302 @@
+{
+  "templates": [
+    {
+      "name": "homepage",
+      "representativePages": [
+        "https://www.botoxone.com/"
+      ],
+      "urls": [
+        "https://www.botoxone.com/"
+      ],
+      "description": "Site homepage with hero banner, indication navigation grid, and promotional content blocks"
+    },
+    {
+      "name": "indication-overview-a",
+      "representativePages": [
+        "https://www.botoxone.com/adult-ndo"
+      ],
+      "urls": [
+        "https://www.botoxone.com/adult-ndo",
+        "https://www.botoxone.com/adult-ndo/"
+      ],
+      "description": "Indication landing/overview page variant with hero, intro copy, and section navigation tiles"
+    },
+    {
+      "name": "indication-content-page",
+      "representativePages": [
+        "https://www.botoxone.com/adult-ndo/dosing",
+        "https://www.botoxone.com/chronic-migraine/dosing",
+        "https://www.botoxone.com/chronic-migraine/since-2010",
+        "https://www.botoxone.com/adult-ndo/efficacy",
+        "https://www.botoxone.com/adult-spasticity/dosing/lls-calculator"
+      ],
+      "urls": [
+        "https://www.botoxone.com/adult-ndo/dosing",
+        "https://www.botoxone.com/adult-ndo/efficacy",
+        "https://www.botoxone.com/adult-ndo/patient-id",
+        "https://www.botoxone.com/adult-ndo/safety",
+        "https://www.botoxone.com/adult-spasticity/dosing/lls-calculator",
+        "https://www.botoxone.com/adult-spasticity/dosing/uls-calculator",
+        "https://www.botoxone.com/badges",
+        "https://www.botoxone.com/blepharospasm",
+        "https://www.botoxone.com/blepharospasm/",
+        "https://www.botoxone.com/cervical-dystonia",
+        "https://www.botoxone.com/cervical-dystonia/",
+        "https://www.botoxone.com/chronic-migraine",
+        "https://www.botoxone.com/chronic-migraine/",
+        "https://www.botoxone.com/chronic-migraine/cm-additional-data",
+        "https://www.botoxone.com/chronic-migraine/dosing",
+        "https://www.botoxone.com/chronic-migraine/efficacy",
+        "https://www.botoxone.com/chronic-migraine/patient-id",
+        "https://www.botoxone.com/chronic-migraine/resources",
+        "https://www.botoxone.com/chronic-migraine/resources?q=chronic%20migraine&collection=ce_documents&sp_c=5&page=1",
+        "https://www.botoxone.com/chronic-migraine/resources?q=chronic%20migraine&sp_c=5&page=1",
+        "https://www.botoxone.com/chronic-migraine/safety",
+        "https://www.botoxone.com/chronic-migraine/since-2010",
+        "https://www.botoxone.com/clinical-information",
+        "https://www.botoxone.com/education-and-training",
+        "https://www.botoxone.com/explore",
+        "https://www.botoxone.com/forgot-password",
+        "https://www.botoxone.com/hyperhidrosis",
+        "https://www.botoxone.com/hyperhidrosis/",
+        "https://www.botoxone.com/instance",
+        "https://www.botoxone.com/manage-account",
+        "https://www.botoxone.com/maxedge-update-profile",
+        "https://www.botoxone.com/overview",
+        "https://www.botoxone.com/register",
+        "https://www.botoxone.com/reset-password",
+        "https://www.botoxone.com/sign-in",
+        "https://www.botoxone.com/site-map",
+        "https://www.botoxone.com/strabismus",
+        "https://www.botoxone.com/strabismus/"
+      ],
+      "description": "Indication sub-page with hero, rich body content sections, callouts, and reference/ISI footer; includes landing pages and dosing calculators"
+    },
+    {
+      "name": "resources-listing",
+      "representativePages": [
+        "https://www.botoxone.com/adult-ndo/resources"
+      ],
+      "urls": [
+        "https://www.botoxone.com/adult-ndo/resources",
+        "https://www.botoxone.com/adult-ndo/resources?q=adult%20ndo&sp_c=5&page=1",
+        "https://www.botoxone.com/adult-spasticity/resources",
+        "https://www.botoxone.com/adult-spasticity/resources?q=adult%20spasticity&sp_c=5&page=1",
+        "https://www.botoxone.com/blepharospasm/resources",
+        "https://www.botoxone.com/blepharospasm/resources?q=Blepharospasm&sp_c=5&page=1",
+        "https://www.botoxone.com/cervical-dystonia/resources",
+        "https://www.botoxone.com/cervical-dystonia/resources?q=cervical%20dystonia&sp_c=5&page=1",
+        "https://www.botoxone.com/hyperhidrosis/resources",
+        "https://www.botoxone.com/hyperhidrosis/resources?q=hyperhidrosis&sp_c=5&page=1",
+        "https://www.botoxone.com/oab/resources",
+        "https://www.botoxone.com/oab/resources?q=oab&sp_c=5&page=1",
+        "https://www.botoxone.com/pediatric-ndo/resources",
+        "https://www.botoxone.com/pediatric-ndo/resources?q=pediatric%20ndo&sp_c=5&page=1",
+        "https://www.botoxone.com/pediatric-spasticity/resources",
+        "https://www.botoxone.com/pediatric-spasticity/resources?q=pediatric%20spasticity&sp_c=5&page=1",
+        "https://www.botoxone.com/strabismus/resources",
+        "https://www.botoxone.com/strabismus/resources?q=strabismus&sp_c=5&page=1"
+      ],
+      "description": "Search-driven resources listing page with faceted query parameters and document result cards"
+    },
+    {
+      "name": "indication-overview-b",
+      "representativePages": [
+        "https://www.botoxone.com/adult-spasticity"
+      ],
+      "urls": [
+        "https://www.botoxone.com/adult-spasticity",
+        "https://www.botoxone.com/adult-spasticity/"
+      ],
+      "description": "Indication landing/overview page variant with hero and section navigation"
+    },
+    {
+      "name": "indication-clinical-detail",
+      "representativePages": [
+        "https://www.botoxone.com/adult-spasticity/dosing",
+        "https://www.botoxone.com/oab/patient-id",
+        "https://www.botoxone.com/adult-spasticity/patient-id",
+        "https://www.botoxone.com/oab/efficacy",
+        "https://www.botoxone.com/blepharospasm/dosing"
+      ],
+      "urls": [
+        "https://www.botoxone.com/adult-spasticity/dosing",
+        "https://www.botoxone.com/adult-spasticity/efficacy",
+        "https://www.botoxone.com/adult-spasticity/patient-id",
+        "https://www.botoxone.com/adult-spasticity/safety",
+        "https://www.botoxone.com/blepharospasm/dosing",
+        "https://www.botoxone.com/blepharospasm/efficacy",
+        "https://www.botoxone.com/blepharospasm/patient-id",
+        "https://www.botoxone.com/blepharospasm/safety",
+        "https://www.botoxone.com/cervical-dystonia/dosing",
+        "https://www.botoxone.com/cervical-dystonia/efficacy",
+        "https://www.botoxone.com/cervical-dystonia/patient-id",
+        "https://www.botoxone.com/cervical-dystonia/safety",
+        "https://www.botoxone.com/hyperhidrosis/dosing",
+        "https://www.botoxone.com/hyperhidrosis/efficacy",
+        "https://www.botoxone.com/hyperhidrosis/patient-id",
+        "https://www.botoxone.com/hyperhidrosis/safety",
+        "https://www.botoxone.com/oab/dosing",
+        "https://www.botoxone.com/oab/efficacy",
+        "https://www.botoxone.com/oab/patient-id",
+        "https://www.botoxone.com/oab/safety",
+        "https://www.botoxone.com/pediatric-ndo/dosing",
+        "https://www.botoxone.com/pediatric-ndo/efficacy",
+        "https://www.botoxone.com/pediatric-ndo/patient-id",
+        "https://www.botoxone.com/pediatric-ndo/safety",
+        "https://www.botoxone.com/pediatric-spasticity/dosing",
+        "https://www.botoxone.com/pediatric-spasticity/efficacy",
+        "https://www.botoxone.com/pediatric-spasticity/patient-id",
+        "https://www.botoxone.com/pediatric-spasticity/safety",
+        "https://www.botoxone.com/strabismus/dosing",
+        "https://www.botoxone.com/strabismus/efficacy",
+        "https://www.botoxone.com/strabismus/patient-id",
+        "https://www.botoxone.com/strabismus/safety"
+      ],
+      "description": "Indication clinical detail page (dosing, efficacy, patient-id, safety) with data tables, charts, and ISI"
+    },
+    {
+      "name": "info-content-page",
+      "representativePages": [
+        "https://www.botoxone.com/botox-services",
+        "https://www.botoxone.com/faqs"
+      ],
+      "urls": [
+        "https://www.botoxone.com/botox-services",
+        "https://www.botoxone.com/faqs",
+        "https://www.botoxone.com/request-a-rep"
+      ],
+      "description": "General informational content page (services, FAQs) with body copy and accordions"
+    },
+    {
+      "name": "form-forgot-password",
+      "representativePages": [
+        "https://www.botoxone.com/content/botoxone/en-us/forgot-password/jcr:content/contentpar/background_container/bkgwidthcontainer/aemform.iframe.en.html?dataRef=&wcmmode=DISABLED"
+      ],
+      "urls": [
+        "https://www.botoxone.com/content/botoxone/en-us/forgot-password/jcr:content/contentpar/background_container/bkgwidthcontainer/aemform.iframe.en.html?dataRef=&wcmmode=DISABLED"
+      ],
+      "description": "Authentication form page rendering an embedded AEM adaptive form iframe (forgot password)"
+    },
+    {
+      "name": "form-patient-access",
+      "representativePages": [
+        "https://www.botoxone.com/content/botoxone/en-us/patient-access-and-support/jcr:content/contentpar/columns/0/aemform.iframe.en.html?dataRef=&wcmmode=DISABLED"
+      ],
+      "urls": [
+        "https://www.botoxone.com/content/botoxone/en-us/patient-access-and-support/jcr:content/contentpar/columns/0/aemform.iframe.en.html?dataRef=&wcmmode=DISABLED"
+      ],
+      "description": "Form page rendering an embedded AEM adaptive form iframe (patient access and support)"
+    },
+    {
+      "name": "form-register",
+      "representativePages": [
+        "https://www.botoxone.com/content/botoxone/en-us/register/jcr:content/contentpar/columns/0/container/containerparsys/aemform.iframe.en.html?dataRef=&wcmmode=DISABLED"
+      ],
+      "urls": [
+        "https://www.botoxone.com/content/botoxone/en-us/register/jcr:content/contentpar/columns/0/container/containerparsys/aemform.iframe.en.html?dataRef=&wcmmode=DISABLED"
+      ],
+      "description": "Registration form page rendering an embedded AEM adaptive form iframe"
+    },
+    {
+      "name": "form-request-a-rep",
+      "representativePages": [
+        "https://www.botoxone.com/content/botoxone/en-us/request-a-rep/jcr:content/contentpar/columns_1660153004/0/container/containerparsys/aemform.iframe.en.html?dataRef=&wcmmode=DISABLED"
+      ],
+      "urls": [
+        "https://www.botoxone.com/content/botoxone/en-us/request-a-rep/jcr:content/contentpar/columns_1660153004/0/container/containerparsys/aemform.iframe.en.html?dataRef=&wcmmode=DISABLED"
+      ],
+      "description": "Form page rendering an embedded AEM adaptive form iframe (request a rep)"
+    },
+    {
+      "name": "form-reset-password",
+      "representativePages": [
+        "https://www.botoxone.com/content/botoxone/en-us/reset-password/jcr:content/contentpar/columns/0/aemform.iframe.en.html?dataRef=&wcmmode=DISABLED"
+      ],
+      "urls": [
+        "https://www.botoxone.com/content/botoxone/en-us/reset-password/jcr:content/contentpar/columns/0/aemform.iframe.en.html?dataRef=&wcmmode=DISABLED"
+      ],
+      "description": "Authentication form page rendering an embedded AEM adaptive form iframe (reset password)"
+    },
+    {
+      "name": "form-sign-in",
+      "representativePages": [
+        "https://www.botoxone.com/content/botoxone/en-us/sign-in/jcr:content/contentpar/background_container/bkgwidthcontainer/aemform.iframe.en.html?dataRef=&wcmmode=DISABLED"
+      ],
+      "urls": [
+        "https://www.botoxone.com/content/botoxone/en-us/sign-in/jcr:content/contentpar/background_container/bkgwidthcontainer/aemform.iframe.en.html?dataRef=&wcmmode=DISABLED"
+      ],
+      "description": "Sign-in form page rendering an embedded AEM adaptive form iframe"
+    },
+    {
+      "name": "find-an-injector",
+      "representativePages": [
+        "https://www.botoxone.com/find-an-injector"
+      ],
+      "urls": [
+        "https://www.botoxone.com/find-an-injector"
+      ],
+      "description": "Provider locator tool page with map/search widget"
+    },
+    {
+      "name": "program-landing-maxedge",
+      "representativePages": [
+        "https://www.botoxone.com/maxedge"
+      ],
+      "urls": [
+        "https://www.botoxone.com/maxedge"
+      ],
+      "description": "Program landing page (MaxEdge) with hero, program details, and CTAs"
+    },
+    {
+      "name": "indication-overview-c",
+      "representativePages": [
+        "https://www.botoxone.com/oab/"
+      ],
+      "urls": [
+        "https://www.botoxone.com/oab",
+        "https://www.botoxone.com/oab/",
+        "https://www.botoxone.com/pediatric-ndo",
+        "https://www.botoxone.com/pediatric-spasticity"
+      ],
+      "description": "Indication landing/overview page variant grouping OAB, pediatric NDO, and pediatric spasticity overviews"
+    },
+    {
+      "name": "training-page",
+      "representativePages": [
+        "https://www.botoxone.com/online-training"
+      ],
+      "urls": [
+        "https://www.botoxone.com/online-training"
+      ],
+      "description": "Online training/education page with course content modules"
+    },
+    {
+      "name": "support-content-page",
+      "representativePages": [
+        "https://www.botoxone.com/patient-access-and-support"
+      ],
+      "urls": [
+        "https://www.botoxone.com/patient-access-and-support"
+      ],
+      "description": "Patient access and support content page with body copy and support resource links"
+    },
+    {
+      "name": "search-results-listing",
+      "representativePages": [
+        "https://www.botoxone.com/practice-resources?q=Office%20Tools&sp_c=5&page=1",
+        "https://www.botoxone.com/search-results"
+      ],
+      "urls": [
+        "https://www.botoxone.com/practice-resources",
+        "https://www.botoxone.com/practice-resources?q=Office%20Tools&sp_c=5&page=1",
+        "https://www.botoxone.com/practice-resources?q=Patient%20Materials&sp_c=5&page=1",
+        "https://www.botoxone.com/practice-resources?q=Provider%20Tools&sp_c=5&page=1",
+        "https://www.botoxone.com/practice-resources?q=practice%20resources&collection=ce_documents&sp_c=5&page=1",
+        "https://www.botoxone.com/search-results",
+        "https://www.botoxone.com/sitemap"
+      ],
+      "description": "Search results and listing page (practice resources, search, sitemap) driven by query parameters and result cards"
+    }
+  ]
+}
